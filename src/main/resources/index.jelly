@@ -1,4 +1,5 @@
 <?jelly escape-by-default='true'?>
 <div>
 excludeMatrixParent
+  Allows excluding a node from running matrix parents jobs.
 </div>
